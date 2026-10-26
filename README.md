@@ -8,7 +8,7 @@
 
 <br>
 
-<img width="28%" align="right" src="SUA_IMAGEM_AQUI.gif_ou_png">
+<img width="28%" align="right" src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fv-for-vendetta-gif-find-share-on-giphy--543528248785473949%2F&ved=0CBcQjRxqFwoTCKDs6v_r15cDFQAAAAAdAAAAABA3&opi=89978449">
 
 <h2 align="left">
   Hi there
