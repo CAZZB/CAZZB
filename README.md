@@ -8,7 +8,9 @@
 
 <br>
 
-<img width="28%" align="right" src="https://giphy.com/gifs/v-for-vendetta-hAmKaqr4xMuUE?utm_source=Pinterest&utm_medium=organic">
+<p align="center">
+  <img src="https://media.giphy.com/media/hAmKaqr4xMuUE/giphy.gif" width="450">
+</p>
 
 <h2 align="left">
   Hi there
